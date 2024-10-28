@@ -4,6 +4,12 @@ Bu repo, C# programlama dilinin temel yapılarını öğrenme sürecimde gelişt
 ### 01_MainSubjects
 Bu bölümde, Console.Write() ve Console.WriteLine() komutları arasındaki farkları ve bu komutların string değişkenlerle kullanımını öğrendim.
 
-Örneğin: Console.WriteLine("String metin" + değişkenAdi + " " + değişkenAdi1);
+### 02_Variables
+C#'da kullanabileceğim bazı veri tiplerini öğrendim: double, char, int ve string.
 
-Burada Console.WriteLine() ile sabit bir string metin ve iki farklı değişken (değişkenAdi ve değişkenAdi1) birlikte yazdırılıyor. "+" operatörü, string ve değişkenleri birleştirmek için kullanılıyor.
+### 03_MakingDecision
+Karar yapıları konusunda bilgi edindim. İlk olarak if ve else yapılarını, ardından switch ve case yapılarını öğrendim. Switch ve case kullanarak basit bir hesap makinesi uygulaması geliştirdim.
+
+### 04_Loops
+
+Programlamanın temel taşlarından biri olan döngüleri daha derinlemesine öğrendim. Bu kapsamda for ve while döngülerini pekiştirmek amacıyla, klavyeden girilen 3 basamaklı bir sayının basamaklarının toplamını hesaplayan bir program geliştirdim. Bu uygulama sayesinde algoritma işlemlerini daha iyi anlamak için kendimi sınama fırsatı buldum ve döngülerin nasıl çalıştığını pratikte deneyimledim.
